@@ -31,7 +31,7 @@ A small autonomous car built on an Arduino Uno and the Adafruit Motor Shield. It
 
 The Arduino Uno, motor shield, sensor, and servo:
 
-![Core wiring diagram](images/wiring-core.svg)
+![Core wiring diagram](https://github.com/Prabrit/Obstacle-avoiding-car/blob/main/robot.png)
 
 
 ### Pin reference
@@ -79,4 +79,4 @@ A few constants in the sketch you may want to adjust for your build:
 | Obstacle threshold | 60 | Distance in cm that triggers avoidance, set in the `if(distance<=60)` check in `loop()` |
 
 ## Project Image
-
+![](https://github.com/Prabrit/Obstacle-avoiding-car/blob/main/20260624_155657.jpg)
